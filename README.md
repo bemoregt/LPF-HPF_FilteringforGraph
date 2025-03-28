@@ -2,6 +2,11 @@
 
 This repository implements spectral graph filtering techniques using Low-Pass Filters (LPF) and High-Pass Filters (HPF) based on graph Fourier transforms.
 
+## Example Results
+
+![Graph Filtering Example 1](R1280x0.png)
+![Graph Filtering Example 2](R1280x0-1.png)
+
 ## Overview
 
 The code demonstrates how to apply signal processing concepts to graph-structured data. By using the spectral decomposition of the graph Laplacian matrix, we can filter out noise and highlight community structures within graphs.
